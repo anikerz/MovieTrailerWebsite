@@ -6,7 +6,7 @@ toy_story = media.Movie("Toy Story",
                         "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
                         "https://www.youtube.com/watch?v=KYz2wyBy3kc")
 
-lion_king = media.Movie("Lion King",
+lion_king = media.Movie("The Lion King",
                         "The story of a young lion cub's journey to adulthood",
                         "https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg",
                         "https://www.youtube.com/watch?v=4sj1MT05lAA")
